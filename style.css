@@ -402,8 +402,8 @@ td span {
 
 .card {
   box-shadow: 9px 10px 25px 0px rgba(191, 172, 4, 0.58);
-  -webkit-box-shadow: 9px 10px 25px 0px rgba(191, 4, 19, 0.58);
-  -moz-box-shadow: 9px 10px 25px 0px rgba(191, 4, 19, 0.58); /* Sombra rosa */
+  -webkit-box-shadow: 9px 10px 25px 0px rgba(148, 64, 134, 0.58);
+  -moz-box-shadow: 9px 10px 25px 0px rgba(134, 56, 134, 0.58); /* Sombra rosa */
 
   h1 {
     font-family: "League Script", serif;
@@ -631,7 +631,7 @@ td span {
 .confirmarBtn {
   border: none;
   padding: 10px 15px;
-  background: #f21b2d;
+  background: #A66A75;
   border-radius: 5px;
   font-family: "Times New Roman", Times, serif;
   color: #fdf7e5;
@@ -641,4 +641,8 @@ td span {
   margin: 0 auto;
   text-align: center;
   opacity: 0;
+}
+
+.carousel{
+  margin-bottom: -40px;
 }
